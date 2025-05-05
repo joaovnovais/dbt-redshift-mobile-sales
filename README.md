@@ -1,4 +1,4 @@
-# Projeto dbt_mobile_sales
+# Projeto dbt-redshift-mobile-sales
 
 Este projeto utiliza o **dbt (data build tool)** para transformar e testar dados de vendas de dispositivos móveis armazenados no **Amazon Redshift**. O foco está em preparar os dados para análises de receita e volume de vendas por marca e produto.
 
